@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-docs-context-challenges/static/css/main.e9f098bf.css",
+    "main.js": "/react-docs-context-challenges/static/js/main.aa7ae599.js",
+    "index.html": "/react-docs-context-challenges/index.html",
+    "main.e9f098bf.css.map": "/react-docs-context-challenges/static/css/main.e9f098bf.css.map",
+    "main.aa7ae599.js.map": "/react-docs-context-challenges/static/js/main.aa7ae599.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9f098bf.css",
+    "static/js/main.aa7ae599.js"
+  ]
+}
